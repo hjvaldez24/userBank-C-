@@ -1,0 +1,15 @@
+C:\Users\Shin\OneDrive\Documents\HJ-VALDEZ\Project\C# Project\Coursera Project C# M\userBalance\bin\Debug\net10.0\userBalance.exe
+C:\Users\Shin\OneDrive\Documents\HJ-VALDEZ\Project\C# Project\Coursera Project C# M\userBalance\bin\Debug\net10.0\userBalance.deps.json
+C:\Users\Shin\OneDrive\Documents\HJ-VALDEZ\Project\C# Project\Coursera Project C# M\userBalance\bin\Debug\net10.0\userBalance.runtimeconfig.json
+C:\Users\Shin\OneDrive\Documents\HJ-VALDEZ\Project\C# Project\Coursera Project C# M\userBalance\bin\Debug\net10.0\userBalance.dll
+C:\Users\Shin\OneDrive\Documents\HJ-VALDEZ\Project\C# Project\Coursera Project C# M\userBalance\bin\Debug\net10.0\userBalance.pdb
+C:\Users\Shin\OneDrive\Documents\HJ-VALDEZ\Project\C# Project\Coursera Project C# M\userBalance\obj\Debug\net10.0\userBalance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shin\OneDrive\Documents\HJ-VALDEZ\Project\C# Project\Coursera Project C# M\userBalance\obj\Debug\net10.0\userBalance.AssemblyInfoInputs.cache
+C:\Users\Shin\OneDrive\Documents\HJ-VALDEZ\Project\C# Project\Coursera Project C# M\userBalance\obj\Debug\net10.0\userBalance.AssemblyInfo.cs
+C:\Users\Shin\OneDrive\Documents\HJ-VALDEZ\Project\C# Project\Coursera Project C# M\userBalance\obj\Debug\net10.0\userBalance.csproj.CoreCompileInputs.cache
+C:\Users\Shin\OneDrive\Documents\HJ-VALDEZ\Project\C# Project\Coursera Project C# M\userBalance\obj\Debug\net10.0\userBalance.sourcelink.json
+C:\Users\Shin\OneDrive\Documents\HJ-VALDEZ\Project\C# Project\Coursera Project C# M\userBalance\obj\Debug\net10.0\userBalance.dll
+C:\Users\Shin\OneDrive\Documents\HJ-VALDEZ\Project\C# Project\Coursera Project C# M\userBalance\obj\Debug\net10.0\refint\userBalance.dll
+C:\Users\Shin\OneDrive\Documents\HJ-VALDEZ\Project\C# Project\Coursera Project C# M\userBalance\obj\Debug\net10.0\userBalance.pdb
+C:\Users\Shin\OneDrive\Documents\HJ-VALDEZ\Project\C# Project\Coursera Project C# M\userBalance\obj\Debug\net10.0\userBalance.genruntimeconfig.cache
+C:\Users\Shin\OneDrive\Documents\HJ-VALDEZ\Project\C# Project\Coursera Project C# M\userBalance\obj\Debug\net10.0\ref\userBalance.dll
