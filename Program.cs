@@ -51,16 +51,17 @@ namespace userBalance
 
                     //here is the selection transaction for the bank if the user want to continue
                     Console.WriteLine("Do you want to continue? (y/n):");
-                    ConsoleKeyInfo key = Console.ReadKey(intercept: true);
+                    //ConsoleKeyInfo key = Console.ReadKey(intercept: true);
+                    string confirmationInput = Console.ReadLine()?.Trim().ToLower();
 
                     //here is the statement for the Y or N confirmation of the transaction of the bank
-                    if (key.Key == ConsoleKey.Y)
+                    if (confirmationInput == "y" | confirmationInput == "yes")
                     {
-                        Console.WriteLine("\n You select: Yes");
+                        Console.WriteLine("You select: Yes");
                     } 
-                    else if (key.Key == ConsoleKey.N)
+                    else if (confirmationInput == "n" | confirmationInput == "no")
                     {
-                        Console.WriteLine("\n You select: No");
+                        Console.WriteLine("You select: No");
                         Environment.Exit(0); // this part is to exit the terminal or break the loop
                     }
                     else
